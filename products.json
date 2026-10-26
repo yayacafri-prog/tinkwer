@@ -1,0 +1,50 @@
+[
+  {
+    "n": "Seam Tee",
+    "c": "tops",
+    "p": 38,
+    "k": "tee",
+    "f": "#B9C46A",
+    "d": "Heavyweight cotton, boxy fit"
+  },
+  {
+    "n": "Patch Hoodie",
+    "c": "tops",
+    "p": 92,
+    "k": "hood",
+    "f": "#9A8AC4",
+    "d": "Brushed fleece, spare patch included"
+  },
+  {
+    "n": "Loose Pants",
+    "c": "bottoms",
+    "p": 84,
+    "k": "pants",
+    "f": "#3A362F",
+    "d": "Drawcord waist, adjustable hem"
+  },
+  {
+    "n": "Offcut Tee",
+    "c": "tops",
+    "p": 42,
+    "k": "tee",
+    "f": "#C98A6B",
+    "d": "Made from leftover fabric, limited run"
+  },
+  {
+    "n": "Field Hoodie",
+    "c": "tops",
+    "p": 96,
+    "k": "hood",
+    "f": "#7E8F72",
+    "d": "Zip pockets, relaxed fit"
+  },
+  {
+    "n": "Workshop Pants",
+    "c": "bottoms",
+    "p": 88,
+    "k": "pants",
+    "f": "#B3A58C",
+    "d": "Tool loop and reinforced knees"
+  }
+]
