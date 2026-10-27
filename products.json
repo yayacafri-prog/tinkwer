@@ -16,7 +16,6 @@
     "k": "tee",
     "f": "#B9C46A",
     "d": "Heavyweight cotton, boxy fit"
-    "imgs": ["hoodie-front.jpg", "hoodie-back.jpg"]
   },
   {
     "n": "Patch Hoodie",
@@ -25,6 +24,7 @@
     "k": "hood",
     "f": "#9A8AC4",
     "d": "Brushed fleece, spare patch included"
+    "imgs": ["hoodie-front.jpg", "hoodie-back.jpg"]
   },
   {
     "n": "Loose Pants",
